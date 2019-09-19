@@ -1,0 +1,43 @@
+{
+    "computer": [{
+            "nama": "Laptop 1",
+            "deskripsi": "koding itu keren",
+            "gambar": "1.jpg"
+        },
+        {
+            "nama": "Laptop 2",
+            "deskripsi": "koding itu simple",
+            "gambar": "2.jpg"
+        },
+        {
+            "nama": "Laptop 3",
+            "deskripsi": "koding itu mantap",
+            "gambar": "3.jpg"
+        },
+        {
+            "nama": "Laptop 4",
+            "deskripsi": "koding itu joss",
+            "gambar": "4.jpg"
+        },
+        {
+            "nama": "Laptop 5",
+            "deskripsi": "koding itu asik",
+            "gambar": "5.jpg"
+        },
+        {
+            "nama": "Laptop 6",
+            "deskripsi": "koding itu asik",
+            "gambar": "6.jpg"
+        },
+        {
+            "nama": "Laptop 7",
+            "deskripsi": "koding itu hoby",
+            "gambar": "7.jpg"
+        },
+        {
+            "nama": "Laptop 8",
+            "deskripsi": "koding itu code",
+            "gambar": "8.jpg"
+        }
+    ]
+}
